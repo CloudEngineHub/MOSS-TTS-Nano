@@ -483,4 +483,10 @@ moss-tts-nano serve \
 
 ## Star 历史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=OpenMOSS/MOSS-TTS-Nano&type=Date)](https://star-history.com/#OpenMOSS/MOSS-TTS-Nano&Date)
+<a href="https://www.star-history.com/?repos=OpenMOSS%2FMOSS-TTS-Nano&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=OpenMOSS/MOSS-TTS-Nano&type=date&theme=dark&legend=top-left&sealed_token=XgHJMPv5AYQOlZYJGrt8eGTrFFk5-6zG8LQkzxxuMgQjTUOMZq8FJEKw1MNj97TLpBpvUUZlty2EJ_PINZbXiF80u99JSanEHh7VTx2bjCX31PfjnJmGf_TkejvvBbWbKsPJf5e9ziRw0fwo7_cXQO37hLlzk3iWN68sbrCgCAsmdYmQeEcWPo6dAoXN" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=OpenMOSS/MOSS-TTS-Nano&type=date&legend=top-left&sealed_token=XgHJMPv5AYQOlZYJGrt8eGTrFFk5-6zG8LQkzxxuMgQjTUOMZq8FJEKw1MNj97TLpBpvUUZlty2EJ_PINZbXiF80u99JSanEHh7VTx2bjCX31PfjnJmGf_TkejvvBbWbKsPJf5e9ziRw0fwo7_cXQO37hLlzk3iWN68sbrCgCAsmdYmQeEcWPo6dAoXN" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=OpenMOSS/MOSS-TTS-Nano&type=date&legend=top-left&sealed_token=XgHJMPv5AYQOlZYJGrt8eGTrFFk5-6zG8LQkzxxuMgQjTUOMZq8FJEKw1MNj97TLpBpvUUZlty2EJ_PINZbXiF80u99JSanEHh7VTx2bjCX31PfjnJmGf_TkejvvBbWbKsPJf5e9ziRw0fwo7_cXQO37hLlzk3iWN68sbrCgCAsmdYmQeEcWPo6dAoXN" />
+ </picture>
+</a>
